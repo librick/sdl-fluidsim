@@ -1,5 +1,4 @@
-
-default: fluidsim.o
+default:imgui
 	g++ -Wall src/main.cpp \
 		-g \
 		fluidsim.o \
