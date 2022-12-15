@@ -6,6 +6,9 @@ I added an ImGUI window to control some aspects of the simulation.
 Not my best code, putting it out there for a friend to reference.
 Feel free to make PRs, MIT licensed.  
 
+## Screenshot(s)
+![screenshot](example/screenshot.png)
+
 ## Building
 In theory, you should be able to just run `make` and then run the generated binary with `./out`.  
 But in theory there is no difference between theory and practice; in practice there is.  
