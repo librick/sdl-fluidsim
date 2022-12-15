@@ -1,5 +1,5 @@
 
-default: fluidsim.o
+default: particle.o
 	g++ -Wall src/main.cpp \
 		-g \
 		fluidsim.o \
